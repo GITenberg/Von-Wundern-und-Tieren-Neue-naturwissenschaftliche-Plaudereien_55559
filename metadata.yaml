@@ -1,0 +1,40 @@
+_repo: Von-Wundern-und-Tieren-Neue-naturwissenschaftliche-Plaudereien_55559
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bölsche, Wilhelm
+    aliases:
+    - Bolsche, Wilhelm
+    - Boelsche, Wilhelm
+    birthdate: 1861
+    deathdate: 1939
+    gutenberg_agent_id: '45651'
+    url: http://www.gutenberg.org/2009/agents/45651
+description: ''
+gutenberg_issued: '2017-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55559'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zoology'
+- !lcsh 'Animal behavior'
+- !lcc 'QL'
+- GITenberg
+tableOfContents: Eine Räubergeschichte aus dem Termitenbau -- Amadinens illuminierte
+  Kinderstube -- Die Vorfahren des Schmetterlings -- Der Kampf um den Maulwurf --
+  Das unheimliche Gila-Tier -- Die drei Augen der Blindschleiche -- Neues von den
+  Wundern des Olm -- Die unsterbliche Amöbe -- Goldene Tiere -- Liberia und das seltenste
+  Tier auf der Briefmarke -- Der Waldrapp, ein verschollenes deutsches Tier -- Der
+  Gespensterzug der Lemminge -- Die Entdeckung von Landwirbeltieren ohne Lunge --
+  Der Vliesigel, das seltsamste Tier Neuguineas -- Tendaguru und der Rekord der Saurier
+  -- Der Schatz von Halberstadt -- Sirenen -- Die Entdeckung des Riesenklippdachses
+  -- Die Mammutschnitzer von Predmost -- Die Furcht vor dem Menschen -- Wie das Tier
+  der fleischfressenden Pflanze ein Schnippchen schlug -- Tiere als Schützen -- Unterseeische
+  Schiffsangriffe durch Tiere -- Aus der Flottenkunst der Tiere -- Das älteste Festungstor
+  -- Eine Liebesgeschichte zwischen Unterseeboot und Aeroplan.
+title: 'Von Wundern und Tieren: Neue naturwissenschaftliche Plaudereien'
+url: http://www.gutenberg.org/ebooks/55559
